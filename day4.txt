@@ -1,0 +1,26 @@
+1.How to check if git is available on your system?
+git version or git --version
+
+2.How to initialize a new git repository?
+git init  
+
+3.How to tell git about your name and email?
+git config --global user.name "bsmonisha"
+git config --global user.email "bsmoisha2002@gmail.com"
+
+4.How to add a file to staging area?
+git add filename
+
+5.How to remove a file from the staging area?
+git -rm --cached<file>
+
+6.How to make a commit?
+git commit -m "message"
+
+7.How to send ypur changes to remote repository?
+git branch -M main
+git remote add origin "link of repo"
+git push -u origin main
+
+8.What is difference between clone and pull?
+git clone is how you get a local copy of an existing repository to work on. git pull (or git fetch + git merge ) is how you update that local copy with new commits from the remote repository.
