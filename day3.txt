@@ -1,0 +1,27 @@
+1.What is git?
+Git is a popular version control System.
+
+2.What do you understand by term version control system?
+Version control is a system that records changes to a file or set of files over time so that you can recall specific version later.
+
+3.What is github?
+It is a code hosting platform for version control and collaboration.
+
+4.Mension some popular Git hosting services?
+GitLab
+BeanStalk
+Codebase
+Bitbucket
+
+5.Different types of version control system
+a.Centralized version control system
+b.Distributed version control system
+
+6.What benefits come with using git?
+Git has branching capabilities.
+
+7.What is git repository?
+Repositories in git contain collection of files of various different version of a project.
+
+8.How you initialize a repository in git?
+git init
