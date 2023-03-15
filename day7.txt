@@ -1,0 +1,27 @@
+1.Statically typed- have to explicitly mention the data type to the compilor while declaring variable
+Dynamically typed- need not to specify the data type.
+
+2.Variables are names give to a location in the memory.
+
+3.datatype variable_name=value
+eg-int m=10;
+
+4.int,boolean,float,char,double,byte,short,long
+
+5.Identifiers are names given to class,property or behaviour
+
+6.a.Arithmetic operator
+  b.Relational operator
+  c.Logical operator
+  d.Unary operator
+  e.Assignment operator
+  f.Bitwise operator
+ 
+7.PreIncrement:++a Increments value and then use it
+Eg-int a=20;
+	int b=++a
+	then a=21 and b=21
+PostIncrement:a++ Use the value and then increment it
+Eg-int a=20;
+	b=a++;
+	then a=21 and b=20
