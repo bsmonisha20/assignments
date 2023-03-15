@@ -1,0 +1,28 @@
+1.What is Programming language?
+Writing a set of instruction that has to be executed by the processor/computer.
+
+2.Why do we need programming language?
+To accomplish the tasks/process the data.
+
+3.What are features of java?
+a.Platform Independent
+b.Object oriented
+c.Distributed
+d.Portable
+
+4.What is an object?
+Object is a member of a java class.
+
+5.What is a class?
+A logical template to create object that hava common properties and methods.
+
+6.Explain about main() method in java?
+public static void main(String[] args){
+//body of code
+}
+
+main-name of method
+void-return type
+public-visible to everyone
+static-method is invoked without creating object of that class
+args-arguments passed in command line
