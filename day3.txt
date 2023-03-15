@@ -25,3 +25,5 @@ Repositories in git contain collection of files of various different version of 
 
 8.How you initialize a repository in git?
 git init
+
+hello welcome to java
