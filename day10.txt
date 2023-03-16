@@ -1,0 +1,21 @@
+1. objectType object_name=new Object();
+Eg-test t=new test();
+
+2.To create an object new keyword is used.
+
+3.a.Instance variable
+  b.Static variable
+  c.Local variable
+  
+4.Instance variable:
+	a.Memory is allocated in heap section.
+	b.Created during object creation.
+	c.Declared in the class outside the method
+  Local variable:
+	a.Memory is allocated in stack section.
+	b.Declared inside a method.
+
+5.Instance:Heap
+  Local:Stack
+  
+6.Enabling several methods to have same name with different number of parameters or datatype.
