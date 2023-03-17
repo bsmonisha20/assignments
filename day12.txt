@@ -1,0 +1,27 @@
+1.It refers to index collection of fixed number of homogenous data elements.
+
+2.int[] a=new int[size];
+
+3.NO,we can't change size of an array during runtime.
+
+4.Yes,we can declare.
+
+5.If memory is allcated it stores 0 or else name of array stores addres.
+
+6.Array that has single row with homogenous elements.
+Eg-int[] a=new int[4];
+
+7.class demo{
+	public static void main(String[] args)
+	{
+		int nums[][]={{1,2,3},{3,4,5},{5,6,7}};
+		for(int a[]:nums)
+		{
+			for(int b:a)
+			{
+				System.out.print(b+" ");
+			}
+			System.out.println();
+		}
+	}
+}
