@@ -1,0 +1,15 @@
+1. Zero or null
+
+2.NO
+
+3.Heap
+
+4.Fixed size and can store only homogenous elements.
+
+5.Array with no name.
+Eg-add(new int[]{1,2,3,4,5});
+
+6.Using loops and mentioning the index of array
+
+7.length-property of array class
+length()-method of string class
