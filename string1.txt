@@ -1,0 +1,15 @@
+1. String is a collection of charector or a series of charecter.
+
+2.Mutable String
+  Immutable String
+  
+3.2 Ways
+	a.String var="Monisha";
+	b.String var=new String("Monisha");
+
+4.Part of heap memory where string is stored.
+
+5.Mutable:The strings can be manipulated/we can change data.
+  Immutable:The strings that cannot be manipulated/we cannot change data.
+  
+6.SCP is located in heap section.
